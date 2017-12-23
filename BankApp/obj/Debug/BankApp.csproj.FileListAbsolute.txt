@@ -1,0 +1,7 @@
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\Tsedy\Documents\Kal Acadamy\C#\BankApp\BankApp\obj\Debug\BankApp.pdb
